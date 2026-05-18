@@ -1,6 +1,6 @@
-# AI Student OS
+# Stackd
 
-A free, full-stack AI-powered student productivity platform for Indian CS/AI-ML students.
+A free, full-stack AI-powered student OS for Indian CS/AI-ML students — DSA tracker, CGPA analytics, AI mentor & placement prep. All in one place.
 
 ## Stack (100% free)
 
