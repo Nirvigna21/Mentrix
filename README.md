@@ -19,8 +19,8 @@ A free, full-stack AI-powered student OS for Indian CS/AI-ML students — DSA tr
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-student-os
-cd ai-student-os
+git clone https://github.com/YOUR_USERNAME/astackd
+cd stackd
 npm install
 ```
 
