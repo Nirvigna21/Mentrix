@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Stackd',
+  title: 'Mentrix',
   description: 'Your AI-powered student OS — DSA, CGPA, placement prep & AI mentor',
-  keywords: ['Stackd', 'AI', 'student', 'DSA', 'CGPA', 'placement prep', 'GenAI'],
+  keywords: ['Mentrix', 'AI', 'student', 'DSA', 'CGPA', 'placement prep', 'GenAI'],
 }
 
 export default function RootLayout({

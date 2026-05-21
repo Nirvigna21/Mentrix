@@ -29,7 +29,7 @@ export default function Navbar({ user }: NavbarProps) {
           S
         </div>
         <span className="text-sm font-bold tracking-tight hidden sm:block">
-          Stack<span className="text-accent-blue">d</span>
+          Mentr<span className="text-accent-blue">d</span>
         </span>
       </Link>
 

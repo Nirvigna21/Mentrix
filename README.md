@@ -1,4 +1,4 @@
-# Stackd
+# Mentrix
 
 A free, full-stack AI-powered student OS for Indian CS/AI-ML students — DSA tracker, CGPA analytics, AI mentor & placement prep. All in one place.
 
