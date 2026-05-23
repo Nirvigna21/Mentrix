@@ -49,8 +49,8 @@ const QUICK_ACTIONS = [
 
 export default function DashboardClient({ userName, isLoggedIn }: Props) {
   const greeting = userName
-    ? `Good morning, ${userName} 👾`
-    : 'Welcome to AI Student OS 👾'
+    ? `Good morning, ${userName} `
+    : 'Welcome to Mentrix '
 
   return (
     <div className="max-w-5xl mx-auto">
